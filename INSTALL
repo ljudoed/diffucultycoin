@@ -1,0 +1,9 @@
+Building DifficultyCoin
+
+See doc/readme-qt.rst for instructions on building DifficultyCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DifficultyCoin.
+
+See doc/build-*.txt for instructions on building DifficultyCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DifficultyCoin.
